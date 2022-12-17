@@ -1,23 +1,30 @@
 # Project Title:
 MARKETING-REFACTOR 
 
+
+
 | TECHNOLOGY USED:         | Resource URL           | 
 | ------------- |:-------------:| 
 | HTML    | [https://github.com/Iykegolden24/marketing-refactor/search?l=html] 
 | CSS     | https://github.com/Iykegolden24/marketing-refactor/search?l=css
+| Git | [https://github.com/Iykegolden24/marketing-refactor]     
 
-| Git | [https://github.com/Iykegolden24/marketing-refactor]     |    
+|    
 
 # Description 
-Here is a link to my deployed site showing the hardwork of project titled marketing refactor. Also, here is complete concept i created, giving me the ability to create a well structured project. This was also created telling a story and showinf the public my strength in using applications and softwares such as github, gitlab,html,css,gitbash,VSC code, and other important factors standing me out for a beautiful piece of work. Please take out time by clicking on the deployed link below to see my hardwork.
-[Visit the Deployed Site] https://iykegolden24.github.io/marketing-refactor/
+Here is a link to my deployed site showing the hardwork of my project titled "MARKETING REFACTOR". Also, here is a complete concept i created, giving me the ability to create a structured project. This was also inspired by me telling a story and showing veiwers my strength in using web applications and softwares such as github, gitlab, html, css, gitbash, VSC code, and other known web applications.This project has given me the opportunity to showcase my talent and show what i can offer in building a web page. Feel free to hit the link below and would appreciate you leaving a comment.
+[Deployed Site] https://iykegolden24.github.io/marketing-refactor/
+
+
+
 
 [Site Langing Page](https://iykegolden24.github.io/marketing-refactor/#online-reputation-management)
 
 
-* [Author Info](Ikenna Onyemechara)
-* [Credits](fIkenna Onyemechatra)
-* [License](N/A)
+
+* [Author Info] (Ikenna Onyemechara)
+* [Credits] (Ikenna Onyemechatra)
+
 
 
 #code refactor example:
@@ -39,6 +46,8 @@ html
             </ul>
         </header>
 
+
+
 css
 .header div {
     padding-top: 15px;
@@ -48,16 +57,20 @@ css
     font-size: 20px;
 }
 
+
 ## Usage 
 index.html, style.css, images. 
 assets\images\search-engine-optimization.jpg
 
 
+
 #CREDITS (UC berkeley bootcamp)
 
 
+
 ## Learning Points 
-learning to code is really an amazing but challenging experience. I have learnt alot developing my skills and tyesting various codes, developing studying guides on html, css, fonts,images,flex codes, colours, padding, background, deployments,cloning, and other important factors that i have learnt in showing how far i have come in web development. 
+learning to code is really an amazing but challenging experience. I have learnt alot developing my skills and testing various codes, studying various guides on html, css, fonts,images,flex codes, colours, padding, background, deployments,cloning, and other important factors that i have learnt in showing how far i have come in web development. 
+
 
 
 ## License
